@@ -1,5 +1,9 @@
 # arena de juego
 Repositorio de pruebas para aprender a usar esto
+Indice:
+- [La formación de los profesores y sarasa](https://github.com/ESTUNSAM/arenadejuego/blob/master/LaFormaci%C3%B3n.md)
+
+
 ## Modificá desde acá
 ### La formación de los profesores y las horas institucionales. 
 
